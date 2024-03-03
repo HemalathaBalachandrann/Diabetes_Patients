@@ -9,11 +9,11 @@ This dataset contains various medical attributes of patients, such as glucose co
 
 # Requirements
 To run the code in this repository, you need to have Python installed on your system. Additionally, the following Python libraries are also required:
-->scikit-learn
-->pandas
-->numpy
-->matplotlib
-->seaborn
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 # You can install these libraries using pip:
 pip install scikit-learn panadas numpy matplotlib seaborn
